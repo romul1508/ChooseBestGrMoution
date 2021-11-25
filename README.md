@@ -8,7 +8,7 @@ which will reduce gas pollution in the city by reducing the number of buses used
 It turned out that to meet the needs of citizens on this route from 0:00 to 4:00 at least 4 buses must run, from 4:00 to 8:00 at least 8, 
 from 8:00 to 12:00 at least 10, from 12:00 to 16:00 at least 7, from 16:00 to 20:00 at least 12, from 20:00 to 24:00 at least 4. 
 In this case, each bus must be on the line continuously for 8 hours (one change). Help the company set up a timetable.
-//----------------------------------------------------------
+---------------------------------------------------------
 
 Solution (See project folder /doc)
 In accordance with the conditions of the problem, namely, 
