@@ -64,7 +64,7 @@ typedef struct bus_schedule_t
 {
 	int			A;	
 	int			B;
-	int 		C;
+	int 			C;
 	int			D;
 	int			E;
 	int			F;
