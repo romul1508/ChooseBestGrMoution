@@ -52,7 +52,7 @@
 // e-mail: romul1508@gmail.com
 // sinc 17.11.2021
 // version: 1.0
-// Copyright 2021 Roman Ermakov
+// ChooseBestGrMoution Copyright (C) 2021 Roman Ermakov
 // All rights reserved
 
 #include <string.h>
